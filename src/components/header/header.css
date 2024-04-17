@@ -1,0 +1,16 @@
+.header {
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    background-color: purple;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+li a{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+}
